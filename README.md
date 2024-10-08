@@ -20,5 +20,5 @@ To run this application, you need Python 3.x along with the following packages:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Mornify.git
+   git clone https://github.com/SeiduOscar/routinemanager.git
    cd Mornify
