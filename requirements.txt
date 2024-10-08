@@ -1,0 +1,7 @@
+### `requirements.txt`
+
+Here’s the `requirements.txt` file listing the necessary dependencies:
+
+```plaintext
+kivy
+plyer
